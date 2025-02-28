@@ -1,8 +1,8 @@
 <a href="https://github.com/Rokichi">
-  <img align="left" height="170px" src="https://rokichi-readme-stats-dlo0pzugb-rokichis-projects.vercel.app/api?username=Rokichi&count_private=true&show_icons=true&theme=dracula" />
+  <img align="left" height="170px" src="https://rokichi-readme-stats-git-master-rokichis-projects.vercel.app/api?username=Rokichi&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/Rokichi">
- <img align="left" height="170px" src="https://rokichi-readme-stats-dlo0pzugb-rokichis-projects.vercel.app/api/top-langs/?username=Rokichi&layout=compact&show_icons=true&theme=dracula" />
+ <img align="left" height="170px" src="https://rokichi-readme-stats-git-master-rokichis-projects.vercel.app/api/top-langs/?username=Rokichi&layout=compact&show_icons=true&theme=dracula" />
 </a>
 
 
